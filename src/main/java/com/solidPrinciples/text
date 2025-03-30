@@ -1,0 +1,19 @@
+SRP:
+A class should have one reason to change
+Increases maintainability
+
+OCP:
+Open for extension, closed for modification
+Reduces changes in existing code
+
+LSP:
+Subtypes should be substitutable for their base types
+Prevents unexpected behavior
+
+ISP:
+No unnecessary dependencies
+Avoids bloated interfaces
+
+DIP:
+High-level modules should depend on abstractions
+Increases flexibility
